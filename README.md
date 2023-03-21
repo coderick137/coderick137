@@ -1,5 +1,5 @@
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6237AE&center=true&multiline=true&width=435&lines=Hello+World!%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6237AE&center=true&multiline=true&width=435&lines=Hello+World!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <img height="180em" align="right" src="https://camo.githubusercontent.com/0b6a40b3776cae6637e5f4a81a6882842dc13ea8a8af6b7fb01c010082153466/687474703a2f2f636c756265646f736765656b732e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30312f646f726d726d2e676966" />
 
