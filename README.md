@@ -1,6 +1,7 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=262092&vCenter=true&multiline=true&repeat=false&width=435&lines=Hello%2C+World!%F0%9F%98%84" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=262092&vCenter=true&multiline=true&repeat=false&width=435&lines=Hello%2C+World!%F0%9F%98%84" alt="Typing SVG" />
 </p>
+
 <img height="180em" align="right" src="https://camo.githubusercontent.com/0b6a40b3776cae6637e5f4a81a6882842dc13ea8a8af6b7fb01c010082153466/687474703a2f2f636c756265646f736765656b732e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30312f646f726d726d2e676966" />
 
 
@@ -9,7 +10,7 @@
 interface About extends Me {
   nome: 'Ricardo Anjos, mas pode me chamar de Rick',
   cargo: 'Desenvolvedor Full Stack Junior formado na Trybe',
-  aprendizado_atual: 'Atualmente estou me aprofundando novas tecnologias como GraphQL e AWS.',
+  aprendizado_atual: 'Atualmente estou cursando Analise de Dados com certificação Google.',
   objetivo: 'criar aplicações incríveis e inovadoras, ser reconhecido e mudar minha vida',
   hobbie: 'Tocar violão olhar as estrelas e destruir bugs',
 }
@@ -37,8 +38,9 @@ interface About extends Me {
 
 
 #### Tecnologias que estou estudando
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ##### Contato
@@ -56,19 +58,3 @@ interface About extends Me {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderick137&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderick137&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
-<!--
-**coderick137/coderick137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
