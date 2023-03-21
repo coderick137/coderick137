@@ -5,17 +5,46 @@
 
 
 ```typescript
-class About extends Me {
-  nome: 'Ricardo Anjos',
-  cargo: 'Full Stack Developer'
-  tecnologias: ["typescript", "react", "node.js", "c#"],
-  objetivo: 'criar aplicações incríveis e inovadoras'
-  hobbie: 'Tocar violão  e olhar as estrelas'
+
+interface About extends Me {
+  nome: 'Ricardo Anjos, mas pode me chamar de Rick',
+  cargo: 'Desenvolvedor Full Stack Junior formado na Trybe',
+  aprendizado_atual: 'Atualmente estou me aprofundando novas tecnologias como GraphQL e AWS.',
+  objetivo: 'criar aplicações incríveis e inovadoras, ser reconhecido e mudar minha vida',
+  hobbie: 'Tocar violão olhar as estrelas e destruir bugs',
 }
 ```
 
+## 🚀 Skills
+ #### Back-End
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+ ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+ ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+ ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+ ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
+ ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=flat&logo=json-web-tokens&logoColor=pink)
+ ![MySql](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+ ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+ ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)
+ ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+ 
+#### Front-End
+ ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+ ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+ ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+ ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+ ![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-## Contato
+
+#### Tecnologias que uso
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+
+
+##### Contato
 
 <div>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -23,7 +52,7 @@ class About extends Me {
 <a href="https://www.linkedin.com/in/ricardoanjosn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>   
 </div>
 
-## Estatísticas
+##### Estatísticas
 
 <div>
 <a href="https://github.com/coderick137">
