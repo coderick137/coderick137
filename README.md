@@ -22,7 +22,6 @@ interface About extends Me {
  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
  ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
- ![Nest](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white')
  ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
  ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=flat&logo=json-web-tokens&logoColor=pink)
  ![MySql](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
@@ -32,6 +31,7 @@ interface About extends Me {
  
 #### Front-End
  ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+ ![Next](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white')
  ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
  ![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
