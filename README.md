@@ -9,7 +9,7 @@
 
 interface About extends Me {
   nome: 'Ricardo Anjos, mas pode me chamar de Rick',
-  cargo: 'Desenvolvedor Full Stack Junior formado na Trybe',
+  cargo: 'Desenvolvedor Full Stack',
   aprendizado_atual: 'Atualmente estou cursando Analise de Dados com certificação Google.',
   objetivo: 'criar aplicações incríveis e inovadoras, ser reconhecido e mudar minha vida',
   hobbie: 'Tocar violão olhar as estrelas e destruir bugs',
